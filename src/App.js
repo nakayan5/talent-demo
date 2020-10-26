@@ -12,7 +12,7 @@ import Shimohuri from './assets/img/talent_3.jpg'
 import Ogiyahagi from './assets/img/talent_4.jpg'
 import Search from 'youtube-api-search'
 
-const youtube_api_key = 'AIzaSyBUb0Y8JzCxW1rguzC73Vsm2tJAv7SHfRA'
+const youtube_api_key = 'youtubeのAPIkeyが入ります'
 
 const talents =  [
   {img: Bananaman, name: 'バナナマン'},
